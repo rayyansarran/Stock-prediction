@@ -1,0 +1,7 @@
+prophet
+plotly
+streamlit
+yfinance
+lssvr
+datetime
+time
